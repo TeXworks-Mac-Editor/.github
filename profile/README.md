@@ -1,7 +1,7 @@
 # TeXworks Mac Editor – Professional LaTeX Typesetting on macOS
 
 <div align="center">  
-<img src="https://static.macupdate.com/products/38614/m/texworks-logo.png" alt="TeXworks Mac Logo" width="200" height="200">  
+<img src="https://www.tug.org/texworks/img/TeXworks256.png" alt="TeXworks Mac Logo" width="200" height="200">  
 </div>  
 
 <div align="center">  
